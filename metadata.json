@@ -1,0 +1,6 @@
+{
+  "name": "Little Qalam — Little Steps, Big Learning",
+  "description": "Katalog produk edukatif dan form pemesanan UMKM Little Qalam Banda Aceh untuk anak usia 3–7 tahun (Orang Tua & Guru PAUD/TK).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
