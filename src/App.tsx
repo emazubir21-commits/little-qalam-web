@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { ChatWidget } from './components/ChatWidget';
 import { Footer } from './components/Footer';
 import { HeroSection } from './components/HeroSection';
 import { Navbar } from './components/Navbar';
@@ -43,6 +44,8 @@ export default function App() {
       </main>
 
       <Footer />
+
+      <ChatWidget onGoToOrderForm={() => scrollToSection('pesan')} />
     </div>
   );
 }
